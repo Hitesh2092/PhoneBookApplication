@@ -1,4 +1,4 @@
-package com.example.PhoneBookApp;
+package com.BikkadIT.PhoneBookApp;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

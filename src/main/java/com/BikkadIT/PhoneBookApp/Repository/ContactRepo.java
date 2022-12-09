@@ -1,8 +1,8 @@
-package com.example.PhoneBookApp.Repository;
+package com.BikkadIT.PhoneBookApp.Repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.example.PhoneBookApp.Entity.Contacts;
+import com.BikkadIT.PhoneBookApp.Entity.Contacts;
 
 public interface ContactRepo extends JpaRepository<Contacts, Integer> {
 
